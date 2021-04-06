@@ -1,2 +1,2 @@
-This is file in master branch
+This is file in new branch
 
